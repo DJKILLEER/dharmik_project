@@ -1,0 +1,12 @@
+/* footer */
+
+.copyright{
+    width: 100%;
+    text-align: center;
+    padding: 25px 0;
+    font-weight: 300;
+   margin-bottom : 20px;
+}
+.copyright i{
+    color: red;
+}
