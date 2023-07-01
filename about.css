@@ -1,0 +1,14 @@
+.intro-text{
+    width: 70%;
+    opacity: 0.2;
+    transform: translateY(10px);
+    transition: 1.2s all ease-in-out;
+}
+
+.intro-appear{
+    opacity: 3;
+    transform: translateY(0px);
+     color: black;
+     background-color: #fff;
+     font-weight: 400;
+}
